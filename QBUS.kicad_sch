@@ -8057,7 +8057,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9289,7 +9289,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9509,7 +9509,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9729,7 +9729,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10129,7 +10129,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10349,7 +10349,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10569,7 +10569,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10789,7 +10789,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11481,7 +11481,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11882,7 +11882,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12316,7 +12316,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12536,7 +12536,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12756,7 +12756,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15233,7 +15233,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15453,7 +15453,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16179,7 +16179,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16827,7 +16827,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17047,7 +17047,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17481,7 +17481,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18207,7 +18207,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19035,7 +19035,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19255,7 +19255,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20118,7 +20118,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20552,7 +20552,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21414,7 +21414,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21926,7 +21926,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 219.71 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22438,7 +22438,7 @@
 				)
 			)
 		)
-		(property "Value" "4049"
+		(property "Value" "74HC4049"
 			(at 267.97 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
