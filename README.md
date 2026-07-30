@@ -11,3 +11,15 @@ Currently there are two disk controller emulation, a RLV12 controller with four 
 The Q-BUS controller provides a command line interface to control the functions and configuration and a SD-Card to store the PDP-11 disk images.
 
 ![Assembled DISK Emulator for the Q-Bus](https://www.5volts.ch/pages/mscpemulator/images/IMG_0579.jpeg)
+
+## Schematic
+
+![Page 1](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page1.png)
+
+![Page 2](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page2.png)
+
+![Page 3](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page3.png)
+
+![Page 4](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page4.png)
+
+![Page 5](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page5.png)
