@@ -10,5 +10,4 @@ This is a Q-BUS PCB for a Q-BUS PDP-11 system that emulates disk controllers dep
 Currently there are two disk controller emulation, a RLV12 controller with four RL01/02 disks attached and a MSCP controller with four units.
 The Q-BUS controller provides a command line interface to control the functions and configuration and a SD-Card to store the PDP-11 disk images.
 
-
-
+[Assembled DISK Emulator for the Q-Bus](https://www.5volts.ch/pages/mscpemulator/images/IMG_0579.jpeg)
