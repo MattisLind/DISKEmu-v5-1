@@ -14,12 +14,12 @@ The Q-BUS controller provides a command line interface to control the functions 
 
 ## Schematic
 
-![Page 1](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page1.png)
+![Page 1](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page1.png)
 
-![Page 2](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page2.png)
+![Page 2](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page2.png)
 
-![Page 3](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page3.png)
+![Page 3](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page3.png)
 
-![Page 4](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page4.png)
+![Page 4](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page4.png)
 
-![Page 5](http://192.168.173.73:1313/pages/mscpemulator/images/Schematic-Page5.png)
+![Page 5](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page5.png)
