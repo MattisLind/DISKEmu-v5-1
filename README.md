@@ -28,6 +28,19 @@ The [purchasing BOM and JLCPCB sourcing notes](bom/README.md) include LCSC numbe
 
 ![Page 5](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page5.png)
 
+## CPLD builds
+
+The [CPLD build instructions](DISKEmu-v5-1-CPLD/BUILD.md) describe independent CUPL and VHDL builds that produce byte-identical JEDEC files through a shared canonical netlist backend. With Docker running:
+
+```sh
+make toolchain
+make -j4 jed-cupl jed-vhdl
+make compare-jed
+make check-equations
+```
+
+JEDEC files and reports are generated separately under `DISKEmu-v5-1-CPLD/build/cupl/` and `build/vhdl/`. `make cpld-test` checks the canonicalizer, symbolic equation equivalence and final output identity.
+
 ## Additional Information
 
 For a full description of this and other projects related not only to PDP-11 
