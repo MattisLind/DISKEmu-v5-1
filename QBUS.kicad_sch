@@ -8078,7 +8078,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8255,6 +8255,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -8298,7 +8361,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -8469,6 +8532,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -8590,7 +8725,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -8761,6 +8896,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -8804,7 +9011,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8975,6 +9182,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -9096,7 +9375,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9267,6 +9546,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -9310,7 +9661,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -9487,6 +9838,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -9530,7 +9944,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9707,6 +10121,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -9750,7 +10227,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -9927,6 +10404,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -9972,7 +10512,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF6800T5E_C23228.pdf"
 			(at 114.3 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -10107,6 +10647,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C23228"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "0603WAF6800T5E"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "1474165"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -10150,7 +10753,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -10327,6 +10930,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -10370,7 +11036,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -10547,6 +11213,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -10590,7 +11319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10767,6 +11496,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -10810,7 +11602,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -10987,6 +11779,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -11032,7 +11887,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF6800T5E_C23228.pdf"
 			(at 105.41 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -11167,6 +12022,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C23228"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "0603WAF6800T5E"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "1474165"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -11288,7 +12206,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -11459,6 +12377,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -11502,7 +12492,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11679,6 +12669,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -11724,7 +12777,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3300T5E_C23138.pdf"
 			(at 105.41 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -11859,6 +12912,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C23138"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "0603WAF3300T5E"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "2165760"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -11903,7 +13019,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -12080,6 +13196,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -12123,7 +13302,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -12294,6 +13473,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -12337,7 +13588,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -12514,6 +13765,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -12557,7 +13871,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -12734,6 +14048,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -12777,7 +14154,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -12954,6 +14331,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -12997,7 +14437,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -13167,6 +14607,78 @@
 					(unit 4)
 				)
 			)
+		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -13557,6 +15069,24 @@
 				)
 			)
 		)
+		(property "Assembly" "PCB feature"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -13600,7 +15130,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -13771,6 +15301,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -13814,7 +15416,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -13985,6 +15587,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -14028,7 +15702,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 123.19 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -14199,6 +15873,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -14242,7 +15988,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -14413,6 +16159,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -14456,7 +16274,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -14627,6 +16445,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -14670,7 +16560,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14841,6 +16731,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -14884,7 +16846,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -15054,6 +17016,78 @@
 					(unit 3)
 				)
 			)
+		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -15254,7 +17288,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -15431,6 +17465,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -15474,7 +17571,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -15651,6 +17748,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -15772,7 +17932,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -15943,6 +18103,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -15986,7 +18218,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -16157,6 +18389,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -16200,7 +18504,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -16377,6 +18681,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -16420,7 +18787,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -16591,6 +18958,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -16634,7 +19073,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -16805,6 +19244,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -16848,7 +19359,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -17025,6 +19536,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -17068,7 +19642,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -17245,6 +19819,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -17288,7 +19925,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -17459,6 +20096,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -17502,7 +20211,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -17679,6 +20388,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -17722,7 +20494,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -17893,6 +20665,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -18014,7 +20858,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -18185,6 +21029,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -18228,7 +21144,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -18405,6 +21321,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -18450,7 +21429,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3300T5E_C23138.pdf"
 			(at 114.3 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -18585,6 +21564,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C23138"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "0603WAF3300T5E"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "2165760"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -18628,7 +21670,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -18799,6 +21841,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -18842,7 +21956,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -19013,6 +22127,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -19056,7 +22242,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -19233,6 +22419,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -19276,7 +22525,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -19453,6 +22702,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -19496,7 +22808,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -19667,6 +22979,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -19710,7 +23094,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -19881,6 +23265,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -19924,7 +23380,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -20095,6 +23551,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -20139,7 +23667,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -20316,6 +23844,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -20359,7 +23950,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -20530,6 +24121,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -20573,7 +24236,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -20750,6 +24413,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -20793,7 +24519,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -20964,6 +24690,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -21007,7 +24805,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -21178,6 +24976,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -21221,7 +25091,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -21392,6 +25262,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -21435,7 +25377,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -21612,6 +25554,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -21655,7 +25660,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -21826,6 +25831,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -21947,7 +26024,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 210.82 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -22124,6 +26201,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -22245,7 +26385,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 80.01 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -22416,6 +26556,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -22459,7 +26671,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 259.08 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -22636,6 +26848,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -22679,7 +26954,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 39.37 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -22849,6 +27124,78 @@
 					(unit 4)
 				)
 			)
+		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
 		)
 	)
 )

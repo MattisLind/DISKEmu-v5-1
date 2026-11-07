@@ -8,7 +8,7 @@
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *-backups
-*-cache*
+# Symbol-cache and rescue libraries can be required design sources; keep them.
 *-bak
 *-bak*
 *~
@@ -19,7 +19,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-~*.lck
+*.lck
 \#auto_saved_files#
 
 # Netlist files (exported from Eeschema)
@@ -29,9 +29,9 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
+# Temporary netlist/BOM XML exports in the project directory.
+# Keep bom/*.csv: these are intentional, reviewable purchasing/assembly BOMs.
+/*.xml
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
@@ -43,9 +43,33 @@ fp-info-cache
 *.kicad_prl
 
 # Production Files and Plots
-production/*
-plots/*
+/build/
+/dist/
+/production/
+/plots/
+/gerbers/
+/fabrication/
+/jlcpcb/production_files/
+*.gbr
+*.gbrjob
+*.drl
 fabrication-toolkit-options.json
+
+# Python tools: local environments and generated caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Tool logs
+*.log
+
+# Keep project-local symbol/footprint libraries, library tables, inventory
+# snapshots, documentation, and the explicitly maintained schematic PDF.
 
 # macOS
 .DS_Store
+._*

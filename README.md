@@ -14,6 +14,10 @@ The Q-BUS controller provides a command line interface to control the functions 
 
 ## Schematic
 
+The updated FT2232H/UPDI schematic is available as a [PDF](docs/schematic-usb-programming.pdf), with [capacitor specifications and programming jumper instructions](docs/schematic-update.md). The images below show the original design.
+
+The [purchasing BOM and JLCPCB sourcing notes](bom/README.md) include LCSC numbers, Basic/Extended classifications, inventory checks and assembly exceptions.
+
 ![Page 1](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page1.png)
 
 ![Page 2](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page2.png)

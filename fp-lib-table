@@ -1,0 +1,3 @@
+(fp_lib_table
+ (lib (name "HP21xx_Connectors") (type "KiCad") (uri "${KIPRJMOD}/hardware/HP21xx_Connectors.pretty") (options "") (descr "SD footprint reused from hp21xx_papertape_emulator"))
+)

@@ -6,9 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Universal Disk Emulator")
-		(date "2026-06-02")
-		(rev "1.1")
-		(comment 4 "Do not modify")
+		(date "2026-11-07")
+		(rev "1.2")
 	)
 	(lib_symbols
 		(symbol "74xx:74LS38"
@@ -121,7 +120,10 @@
 				)
 				(polyline
 					(pts
-						(xy 0 3.81) (xy -3.81 3.81) (xy -3.81 -3.81) (xy 0 -3.81)
+						(xy 0 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 0 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -201,7 +203,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -0.635 3.81)
+						(xy -3.81 3.81)
+						(xy -0.635 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -213,7 +216,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 -3.81) (xy -0.635 -3.81)
+						(xy -3.81 -3.81)
+						(xy -0.635 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -249,8 +253,17 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 3.81) (xy -3.81 3.81) (xy -3.81 3.81) (xy -3.556 3.4036) (xy -3.0226 2.2606) (xy -2.6924 1.0414)
-						(xy -2.6162 -0.254) (xy -2.7686 -1.4986) (xy -3.175 -2.7178) (xy -3.81 -3.81) (xy -3.81 -3.81)
+						(xy -0.635 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.556 3.4036)
+						(xy -3.0226 2.2606)
+						(xy -2.6924 1.0414)
+						(xy -2.6162 -0.254)
+						(xy -2.7686 -1.4986)
+						(xy -3.175 -2.7178)
+						(xy -3.81 -3.81)
+						(xy -3.81 -3.81)
 						(xy -0.635 -3.81)
 					)
 					(stroke
@@ -331,7 +344,10 @@
 				)
 				(polyline
 					(pts
-						(xy 0 3.81) (xy -3.81 3.81) (xy -3.81 -3.81) (xy 0 -3.81)
+						(xy 0 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 0 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -411,7 +427,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -0.635 3.81)
+						(xy -3.81 3.81)
+						(xy -0.635 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -423,7 +440,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 -3.81) (xy -0.635 -3.81)
+						(xy -3.81 -3.81)
+						(xy -0.635 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -459,8 +477,17 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 3.81) (xy -3.81 3.81) (xy -3.81 3.81) (xy -3.556 3.4036) (xy -3.0226 2.2606) (xy -2.6924 1.0414)
-						(xy -2.6162 -0.254) (xy -2.7686 -1.4986) (xy -3.175 -2.7178) (xy -3.81 -3.81) (xy -3.81 -3.81)
+						(xy -0.635 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.556 3.4036)
+						(xy -3.0226 2.2606)
+						(xy -2.6924 1.0414)
+						(xy -2.6162 -0.254)
+						(xy -2.7686 -1.4986)
+						(xy -3.175 -2.7178)
+						(xy -3.81 -3.81)
+						(xy -3.81 -3.81)
 						(xy -0.635 -3.81)
 					)
 					(stroke
@@ -541,7 +568,10 @@
 				)
 				(polyline
 					(pts
-						(xy 0 3.81) (xy -3.81 3.81) (xy -3.81 -3.81) (xy 0 -3.81)
+						(xy 0 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 0 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -621,7 +651,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -0.635 3.81)
+						(xy -3.81 3.81)
+						(xy -0.635 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -633,7 +664,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 -3.81) (xy -0.635 -3.81)
+						(xy -3.81 -3.81)
+						(xy -0.635 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -669,8 +701,17 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 3.81) (xy -3.81 3.81) (xy -3.81 3.81) (xy -3.556 3.4036) (xy -3.0226 2.2606) (xy -2.6924 1.0414)
-						(xy -2.6162 -0.254) (xy -2.7686 -1.4986) (xy -3.175 -2.7178) (xy -3.81 -3.81) (xy -3.81 -3.81)
+						(xy -0.635 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.556 3.4036)
+						(xy -3.0226 2.2606)
+						(xy -2.6924 1.0414)
+						(xy -2.6162 -0.254)
+						(xy -2.7686 -1.4986)
+						(xy -3.175 -2.7178)
+						(xy -3.81 -3.81)
+						(xy -3.81 -3.81)
 						(xy -0.635 -3.81)
 					)
 					(stroke
@@ -751,7 +792,10 @@
 				)
 				(polyline
 					(pts
-						(xy 0 3.81) (xy -3.81 3.81) (xy -3.81 -3.81) (xy 0 -3.81)
+						(xy 0 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 0 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -831,7 +875,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -0.635 3.81)
+						(xy -3.81 3.81)
+						(xy -0.635 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -843,7 +888,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 -3.81) (xy -0.635 -3.81)
+						(xy -3.81 -3.81)
+						(xy -0.635 -3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -879,8 +925,17 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 3.81) (xy -3.81 3.81) (xy -3.81 3.81) (xy -3.556 3.4036) (xy -3.0226 2.2606) (xy -2.6924 1.0414)
-						(xy -2.6162 -0.254) (xy -2.7686 -1.4986) (xy -3.175 -2.7178) (xy -3.81 -3.81) (xy -3.81 -3.81)
+						(xy -0.635 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.556 3.4036)
+						(xy -3.0226 2.2606)
+						(xy -2.6924 1.0414)
+						(xy -2.6162 -0.254)
+						(xy -2.7686 -1.4986)
+						(xy -3.175 -2.7178)
+						(xy -3.81 -3.81)
+						(xy -3.81 -3.81)
 						(xy -0.635 -3.81)
 					)
 					(stroke
@@ -1119,7 +1174,8 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 0) (xy 0.8636 0)
+						(xy 1.27 0)
+						(xy 0.8636 0)
 					)
 					(stroke
 						(width 0.1524)
@@ -1131,7 +1187,8 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+						(xy 1.27 -2.54)
+						(xy 0.8636 -2.54)
 					)
 					(stroke
 						(width 0.1524)
@@ -1272,7 +1329,8 @@
 			(symbol "C_0_1"
 				(polyline
 					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
+						(xy -2.032 0.762)
+						(xy 2.032 0.762)
 					)
 					(stroke
 						(width 0.508)
@@ -1284,7 +1342,8 @@
 				)
 				(polyline
 					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
+						(xy -2.032 -0.762)
+						(xy 2.032 -0.762)
 					)
 					(stroke
 						(width 0.508)
@@ -1710,7 +1769,10 @@
 			(symbol "4049_1_0"
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 3.81 0)
+						(xy -3.81 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -1760,7 +1822,10 @@
 			(symbol "4049_2_0"
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 3.81 0)
+						(xy -3.81 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -1810,7 +1875,10 @@
 			(symbol "4049_3_0"
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 3.81 0)
+						(xy -3.81 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -1860,7 +1928,10 @@
 			(symbol "4049_4_0"
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 3.81 0)
+						(xy -3.81 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -1910,7 +1981,10 @@
 			(symbol "4049_5_0"
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 3.81 0)
+						(xy -3.81 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -1960,7 +2034,10 @@
 			(symbol "4049_6_0"
 				(polyline
 					(pts
-						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+						(xy -3.81 3.81)
+						(xy -3.81 -3.81)
+						(xy 3.81 0)
+						(xy -3.81 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -2178,7 +2255,12 @@
 			(symbol "GND_0_1"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+						(xy 0 0)
+						(xy 0 -1.27)
+						(xy 1.27 -1.27)
+						(xy 0 -2.54)
+						(xy -1.27 -1.27)
+						(xy 0 -1.27)
 					)
 					(stroke
 						(width 0)
@@ -2313,7 +2395,12 @@
 			(symbol "PWR_FLAG_0_1"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+						(xy 0 0)
+						(xy 0 1.27)
+						(xy -1.016 1.905)
+						(xy 0 2.54)
+						(xy 1.016 1.905)
+						(xy 0 1.27)
 					)
 					(stroke
 						(width 0)
@@ -2408,7 +2495,8 @@
 			(symbol "VCC_0_1"
 				(polyline
 					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
+						(xy -0.762 1.27)
+						(xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -2420,7 +2508,8 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 2.54)
+						(xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -2432,7 +2521,8 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 0)
+						(xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -2455,6 +2545,185 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:C_Polarized"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized"
+				(at 0.635 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Polarized capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_Polarized_0_1"
+				(rectangle
+					(start -2.286 0.508)
+					(end 2.286 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.286)
+						(xy -0.762 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.794)
+						(xy -1.27 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.286 -0.508)
+					(end -2.286 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "C_Polarized_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2707,7 +2976,7 @@
 		(uuid "d7047cd5-2801-4539-a1ee-c926307dd234")
 	)
 	(junction
-		(at 58.42 99.06)
+		(at 54.61 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd50486b-ab64-4c38-8949-292d0bdc1149")
@@ -4276,7 +4545,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 242.57 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4446,6 +4715,78 @@
 					(unit 5)
 				)
 			)
+		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -4649,7 +4990,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 125.73 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -4784,6 +5125,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -4908,7 +5330,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 168.91 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5079,6 +5501,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -5125,7 +5619,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 160.02 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5259,6 +5753,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -5540,7 +6115,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 209.55 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5675,6 +6250,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -5799,7 +6455,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 219.71 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5970,6 +6626,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -6083,7 +6811,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 144.4752 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6094,7 +6822,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 143.51 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6105,7 +6833,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 143.51 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6229,6 +6957,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -6350,7 +7159,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 267.97 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6520,6 +7329,78 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -6776,6 +7657,24 @@
 				)
 			)
 		)
+		(property "Assembly" "PCB feature"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -6811,7 +7710,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 82.2452 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6822,7 +7721,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 81.28 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6833,7 +7732,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 81.28 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6956,6 +7855,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -7393,7 +8373,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 177.8 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -7570,6 +8550,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -7616,7 +8659,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 182.88 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -7751,6 +8794,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -7794,7 +8918,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 267.97 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7964,6 +9088,78 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -8167,7 +9363,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 152.4 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -8344,6 +9540,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -8379,7 +9638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 164.7952 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8390,7 +9649,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 163.83 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8401,7 +9660,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 163.83 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8524,6 +9783,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -8716,7 +10056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 154.6352 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8727,7 +10067,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 153.67 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8738,7 +10078,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 153.67 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8861,6 +10201,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -9142,7 +10563,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 233.68 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9277,6 +10698,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -9323,7 +10825,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 67.31 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9494,6 +10996,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -9540,7 +11114,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 54.61 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9675,6 +11249,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -9710,7 +11365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 93.6752 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -9721,7 +11376,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 92.71 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9732,7 +11387,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 92.71 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9855,6 +11510,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -10214,7 +11950,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 123.19 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -10390,6 +12126,69 @@
 					(unit 7)
 				)
 			)
+		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -10567,6 +12366,24 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Assembly" "PCB feature"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -11160,7 +12977,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 38.1 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11331,6 +13148,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -11377,7 +13266,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 82.55 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11511,6 +13400,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -11711,7 +13681,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 267.97 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -11882,6 +13852,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -11928,7 +13970,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 118.11 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -12099,6 +14141,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -12223,7 +14337,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 194.31 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -12358,6 +14472,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -12404,7 +14599,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 236.22 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -12539,6 +14734,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -12585,7 +14861,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 214.63 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -12719,6 +14995,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -12922,7 +15279,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 25.4 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -13057,6 +15414,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -13092,7 +15530,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 73.3552 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -13103,7 +15541,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 72.39 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -13114,7 +15552,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 72.39 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -13237,6 +15675,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -13474,7 +15993,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
+		(lib_id "Device:C_Polarized")
 		(at 71.12 74.93 0)
 		(unit 1)
 		(body_style 1)
@@ -13496,7 +16015,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "22u"
 			(at 74.93 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13507,7 +16026,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
 			(at 72.0852 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13529,7 +16048,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "5V input bulk tantalum; surge-rated, voltage derated"
 			(at 71.12 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13652,6 +16171,78 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "16V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C8020"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "TAJB226K016RNJ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "42042"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -13852,7 +16443,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 69.85 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -14029,6 +16620,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -14075,7 +16729,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 246.38 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -14210,6 +16864,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -14256,7 +16991,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 194.31 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -14426,6 +17161,78 @@
 					(unit 5)
 				)
 			)
+		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -14629,7 +17436,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 81.28 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -14764,6 +17571,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -14810,7 +17698,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 224.79 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -14944,6 +17832,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -15147,7 +18116,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 93.98 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -15318,6 +18287,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -15364,7 +18405,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 110.49 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -15499,6 +18540,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -15545,7 +18667,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 96.52 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -15722,6 +18844,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -15835,7 +19020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 103.8352 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -15846,7 +19031,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 102.87 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15857,7 +19042,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 102.87 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15981,6 +19166,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -16027,7 +19293,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 184.15 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -16161,6 +19427,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -16520,7 +19867,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 266.7 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -16655,6 +20002,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -16690,7 +20118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 83.5152 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -16701,7 +20129,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 82.55 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -16712,7 +20140,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 82.55 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -16836,6 +20264,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -16882,7 +20391,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 193.04 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -17017,6 +20526,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
@@ -17060,7 +20650,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308021732_XKB-Connection-X6511WR-02H-C60D30R1_C2883840.pdf"
 			(at 105.41 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17195,6 +20785,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2883840"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "X6511WR-02H-C60D30R1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "XKB Connection"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "2515"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "Hand-fit"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -17241,7 +20894,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 133.35 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -17376,6 +21029,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -17500,7 +21234,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 109.22 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -17635,10 +21369,91 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 114.3 148.59 0)
+		(lib_id "Device:C_Polarized")
+		(at 54.61 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17649,29 +21464,29 @@
 		(fields_autoplaced yes)
 		(uuid "c7688913-c2c8-42d7-821b-66feb29dc66b")
 		(property "Reference" "C20"
-			(at 118.11 147.3199 0)
+			(at 50.8 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "4u7"
-			(at 118.11 149.8599 0)
+		(property "Value" "22u"
+			(at 50.8 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
-			(at 115.2652 152.4 0)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
+			(at 55.5752 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17682,7 +21497,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17692,8 +21507,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 114.3 148.59 0)
+		(property "Description" "LM1117 output tantalum: >=10uF effective, ESR 0.3 to 22 ohm; place at U14"
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17704,7 +21519,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17715,7 +21530,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17726,7 +21541,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17737,7 +21552,7 @@
 			)
 		)
 		(property "KLC_S4.2_3V3OUT" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17748,7 +21563,7 @@
 			)
 		)
 		(property "KLC_S4.2_VCC" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17759,7 +21574,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17770,7 +21585,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17781,7 +21596,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17792,7 +21607,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 114.3 148.59 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17815,6 +21630,78 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "16V"
+			(at -59.69 -34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C8020"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "TAJB226K016RNJ"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "42042"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -18408,7 +22295,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 204.47 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -18543,6 +22430,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -18667,7 +22635,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 218.44 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -18801,6 +22769,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -19004,7 +23053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 137.16 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -19138,6 +23187,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -19339,7 +23469,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm1117.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410010400_Texas-Instruments-LM1117MPX-3-3-NOPB_C9662.pdf"
 			(at 46.99 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -19477,6 +23607,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C9662"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "LM1117MPX-3.3/NOPB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "35333"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -19521,7 +23714,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 50.8 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -19697,6 +23890,69 @@
 					(unit 5)
 				)
 			)
+		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -19900,7 +24156,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 256.54 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -20035,6 +24291,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -20079,7 +24416,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 30.48 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -20256,6 +24593,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -20302,7 +24702,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 204.47 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -20437,6 +24837,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -20550,7 +25031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 134.3152 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -20561,7 +25042,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 133.35 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -20572,7 +25053,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 133.35 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -20695,6 +25176,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -20976,7 +25538,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 165.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -21111,6 +25673,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "74xx:74LS38")
@@ -21157,7 +25800,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS38"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220108_Texas-Instruments-SN74F38DR_C2878705.pdf"
 			(at 143.51 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -21328,6 +25971,78 @@
 				)
 			)
 		)
+		(property "LCSC" "C2878705"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "SN74F38DR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Procurement Note" "SN74F38DR narrow SOIC-14, 3.9mm body; do not substitute wider SN74F38NSR without footprint change"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "308"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -21363,7 +26078,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 103.8352 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -21374,7 +26089,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 102.87 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -21385,7 +26100,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 102.87 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -21508,6 +26223,87 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -22246,7 +27042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 63.1952 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -22257,7 +27053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 62.23 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -22268,7 +27064,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 62.23 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -22392,6 +27188,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -22438,7 +27315,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
 			(at 229.87 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -22573,6 +27450,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "16490356"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -22608,7 +27566,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 124.1552 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -22619,7 +27577,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
 			(at 123.19 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -22630,7 +27588,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 50V X7R ceramic, Basic C29823; same part used in HP21xx project"
 			(at 123.19 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -22754,6 +27712,87 @@
 				)
 			)
 		)
+		(property "Voltage" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "Dielectric" "X7R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+			(hide yes)
+		)
+		(property "LCSC" "C29823"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "1206B475K500NT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "511902"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:4049")
@@ -22800,7 +27839,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-CD74HC4049M96_C2871324.pdf"
 			(at 67.31 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -22977,6 +28016,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C2871324"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "CD74HC4049M96"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "995"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -23055,5 +28157,123 @@
 				)
 			)
 		)
+	)
+
+	(text "C17: 22uF / 16V tantalum at 5V entry.\nC20: 22uF / 16V tantalum at U14 OUT.\nUse C20 ESR 0.3–22 ohm.\nOther 4u7: 50V X7R 1206 ceramic.\nRetain local 100n bypass capacitors."
+		(at 110.49 166.37 0)
+		(effects
+			(font
+				(size 1.0 1.0)
+			)
+			(justify left top)
+		)
+		(uuid "916d18fc-b5e1-41e2-810e-2d2cfa90fc81")
+	)
+
+	(symbol
+		(lib_id "power:GND")
+		(at 54.61 120.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12589668-cd9a-4769-8f4b-6487866c6897")
+		(property "Reference" "#PWR0903"
+			(at 54.61 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 54.61 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 54.61 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 54.61 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bf6df955-23af-4804-a90a-97062889db3c")
+		)
+		(instances
+			(project "DISKEmu-v5-1"
+				(path "/372bb4f6-0487-48c5-aa32-03d317b37255/ceaecb7b-c3db-4da1-a88d-3ef69cc92075"
+					(reference "#PWR0903")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 54.61 110.49)
+			(xy 54.61 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73137ed7-d623-4080-9404-9beb98813ba3")
+	)
+	(wire
+		(pts
+			(xy 54.61 118.11)
+			(xy 54.61 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "263bba2c-23a4-4898-b449-64b098a58e08")
+	)
+	(junction
+		(at 54.61 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c41b4a4-4184-45b9-98bd-e6be3d14c0f0")
 	)
 )

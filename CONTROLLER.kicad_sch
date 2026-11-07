@@ -8545,7 +8545,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED Green"
 			(at 265.43 37.1474 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8556,7 +8556,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 261.62 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -8567,7 +8567,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151820_Hubei-KENTO-Elec-KT-0805G_C2297.pdf"
 			(at 261.62 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -8712,6 +8712,69 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "LCSC" "C2297"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "KT-0805G"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Hubei KENTO Elec"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "1720084"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol
@@ -8893,7 +8956,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AVR128DB48x-xPT"
+		(property "Value" "AVR128DB48-I/PT"
 			(at 242.1733 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8916,7 +8979,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DB28-32-48-64-DataSheet-DS40002247A.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Microchip-Tech-AVR128DB48-I-PT_C1019766.pdf"
 			(at 240.03 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -9189,6 +9252,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C1019766"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "AVR128DB48-I/PT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Microchip Tech"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "14"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -9311,7 +9437,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403011106_BOOMELE-Boom-Precision-Elec-2-54-1-4P_C88278.pdf"
 			(at 207.01 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -9452,6 +9578,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C88278"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "2.54-1*4PBent round female"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "BOOMELE(Boom Precision Elec)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "328"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "Hand-fit"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "cbscpe:ATF1508AS-xQC100")
@@ -9476,7 +9665,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATF1508-10QC100"
+		(property "Value" "ATF1508AS-10AU100"
 			(at 83.4233 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9498,7 +9687,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Microchip-Tech-ATF1508AS-10AU100_C31179.pdf"
 			(at -193.04 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9927,6 +10116,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C31179"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "ATF1508AS-10AU100"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Microchip Tech"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "7"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -10029,7 +10281,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "330"
 			(at 264.16 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10051,7 +10303,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3300T5E_C23138.pdf"
 			(at 261.62 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -10186,6 +10438,69 @@
 				)
 			)
 		)
+		(property "LCSC" "C23138"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "0603WAF3300T5E"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "2165760"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
 	)
 	(symbol
 		(lib_id "power:VCC")
@@ -10287,7 +10602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATF1504ASL-xAx44"
+		(property "Value" "ATF1504AS-10AU44"
 			(at 152.4 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10309,7 +10624,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Microchip-Tech-ATF1504AS-10AU44_C219301.pdf"
 			(at 152.4 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10569,6 +10884,69 @@
 					(unit 1)
 				)
 			)
+		)
+		(property "LCSC" "C219301"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "MPN" "ATF1504AS-10AU44"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Manufacturer" "Microchip Tech"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Class" "Extended"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "JLCPCB Available" "1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Inventory Checked" "2026-11-07"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Assembly" "JLCPCB SMT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
 		)
 	)
 	(symbol

@@ -1,0 +1,276 @@
+(kicad_symbol_lib
+	(version 20241209)
+	(generator "kicad_symbol_editor")
+	(symbol "SD_SHOUHAN_SD-CARD-11P"
+		(pin_names
+			(offset 1.016)
+		)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 0 22.86 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+		)
+		(property "Value" "SD-CARD 11P"
+			(at 0 20.32 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+		)
+		(property "Footprint" "HP21xx_Connectors:SD_SHOUHAN_SD-CARD-11P"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C7529393.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.0 1.0)
+				)
+			)
+			(hide yes)
+		)
+		(symbol "SD_SHOUHAN_SD-CARD-11P_0_1"
+			(rectangle
+				(start -15.24 17.78)
+				(end 15.24 -15.24)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "SD_SHOUHAN_SD-CARD-11P_1_1"
+			(pin passive line
+				(at -20.32 12.7 0)
+				(length 5.08)
+				(name "CD/DAT3"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 10.16 0)
+				(length 5.08)
+				(name "CMD/DI"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 7.62 0)
+				(length 5.08)
+				(name "VSS1"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 5.08 0)
+				(length 5.08)
+				(name "VDD"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 2.54 0)
+				(length 5.08)
+				(name "CLK"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 0 0)
+				(length 5.08)
+				(name "VSS2"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 -2.54 0)
+				(length 5.08)
+				(name "DAT0/DO"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 -5.08 0)
+				(length 5.08)
+				(name "DAT1"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -20.32 -7.62 0)
+				(length 5.08)
+				(name "DAT2"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 20.32 5.08 180)
+				(length 5.08)
+				(name "WP"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 20.32 10.16 180)
+				(length 5.08)
+				(name "CD"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 20.32 -10.16 180)
+				(length 5.08)
+				(name "SHELL/COMMON"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+				(number "SH"
+					(effects
+						(font
+							(size 1.0 1.0)
+						)
+					)
+				)
+			)
+		)
+	)
+)

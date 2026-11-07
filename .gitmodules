@@ -1,3 +1,6 @@
 [submodule "MSCPEmu-v4-0"]
 	path = MSCPEmu-v4-0
 	url = git@github.com:MattisLind/MSCPEmu-v4-0.git
+[submodule "DISKEmu-v5-1-CPLD"]
+	path = DISKEmu-v5-1-CPLD
+	url = git@github.com:MattisLind/DISKEmu-v5-1-CPLD.git
