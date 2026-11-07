@@ -61,6 +61,18 @@ make check-equations
 
 JEDEC files and reports are generated separately under the CPLD submodule’s `build/cupl/` and `build/vhdl/` directories. `make cpld-test` checks the canonicalizer, symbolic equation equivalence and final output identity.
 
+## AVR firmware builds
+
+The [AVR firmware container](tools/avr-firmware/README.md) builds both MSCP and RLV12 images for the AVR128DB48 using pinned AVRASM2, device definitions and the original author's shared assembly/FAT library. With Docker running:
+
+```sh
+make firmware-toolchain
+make firmware
+make firmware-repro
+```
+
+Programming images are `build/firmware/mscp/diskemu-mscp.hex` and `build/firmware/rlv12/diskemu-rlv12.hex`; full flash `.bin` files, listings, maps and provenance manifests accompany them. Both variants assemble without errors or warnings. Repeated HEX/BIN builds match byte for byte, with a fixed embedded timestamp. Memory/address checks pass, but no known-good binary or hardware test establishes functional correctness yet. The firmware also includes a one-symbol correction to use the official 24 MHz clock constant.
+
 ## Additional Information
 
 For a full description of this and other projects related not only to PDP-11 

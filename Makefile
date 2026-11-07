@@ -3,6 +3,8 @@ TOOLCHAIN := tools/atf15xx-yosys-docker
 
 .PHONY: help toolchain jed-cupl cpld cpld-main cpld-dma cpld-verify tool-versions toolchain-test
 help:
+	@echo "make firmware-toolchain Build the AVRASM2 Docker image"
+	@echo "make firmware          Build AVR MSCP and RLV12 firmware"
 	@echo "make toolchain       Build the CUPL/VHDL Docker image"
 	@echo "make jed-cupl        Compile and fit both original Q-bus CPLDs"
 	@echo "make jed-vhdl        Build both independent VHDL sources"
@@ -46,3 +48,21 @@ check-equations:
 .PHONY: cpld-test
 cpld-test:
 	$(MAKE) -C DISKEmu-v5-1-CPLD test check-equations compare-jed
+
+AVR_TOOLS := tools/avr-firmware
+.PHONY: firmware-toolchain firmware firmware-mscp firmware-rlv12
+firmware-toolchain:
+	"$(AVR_TOOLS)/build-docker.sh"
+firmware:
+	"$(AVR_TOOLS)/build-in-docker.sh"
+firmware-mscp:
+	"$(AVR_TOOLS)/build-in-docker.sh" --variant mscp
+firmware-rlv12:
+	"$(AVR_TOOLS)/build-in-docker.sh" --variant rlv12
+
+.PHONY: firmware-test firmware-repro
+firmware-test:
+	python3 -m unittest discover -s "$(AVR_TOOLS)/tests" -v
+firmware-repro: firmware
+	"$(AVR_TOOLS)/build-in-docker.sh" --output /src/build/firmware-repeat
+	python3 "$(AVR_TOOLS)/check-reproducible.py" build/firmware build/firmware-repeat

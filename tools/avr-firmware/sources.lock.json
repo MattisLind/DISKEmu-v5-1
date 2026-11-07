@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "name": "avrasm2.exe",
+      "url": "https://raw.githubusercontent.com/GreatCowBASIC/AVRASM2/be677ade639ab64ffd05d3c625f5a4e24633e6df/avrassembler/avrasm2.exe",
+      "revision": "be677ade639ab64ffd05d3c625f5a4e24633e6df",
+      "description": "Microchip AVRASM2 2.2.8 build 80, mirrored by GreatCowBASIC",
+      "sha256": "64648ac311b323976ade30d1853d5fda19c913ad3cca9e570b3f217ba2a83f3a"
+    },
+    {
+      "name": "include.tar.gz",
+      "url": "https://codeload.github.com/cbscpe/include/tar.gz/e708e195414fb9bfb84f029500fe39d9b80f01f4",
+      "revision": "e708e195414fb9bfb84f029500fe39d9b80f01f4",
+      "description": "Original author shared assembly library, including its bundled FAT library",
+      "sha256": "d4ea719e9e8ecb66576ebf9c7836543b8a3d842fda875d0b6fc53c9beaa01214"
+    },
+    {
+      "name": "Microchip.AVR-Dx_DFP.2.8.343.atpack",
+      "url": "https://packs.download.microchip.com/Microchip.AVR-Dx_DFP.2.8.343.atpack",
+      "version": "2.8.343",
+      "description": "Official Microchip AVR-Dx device definitions",
+      "sha256": "d81af59072e5ac188431e828461eee5c08e6d5f3ace32461328b4da0ec348746"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.git
+**/__pycache__
+**/*.py[cod]
+**/*.log
+downloads/*.partial
+downloads/FAT.tar.gz
+downloads/Microchip.AVR-Dx_DFP.1.10.124.atpack
+.DS_Store
