@@ -10,9 +10,29 @@ This is a Q-BUS board for a Q-BUS PDP-11 system that emulates disk controllers d
 files. Currently there are two disk controller emulation, a RLV12 controller with four RL01/02 disks attached and a MSCP controller with four units.
 The Q-BUS controller provides a command line interface to control the functions and configuration and a SD-Card to store the PDP-11 disk images.
 
+## Current revision
+
+The original Q-bus design has been updated in three areas:
+
+- **USB and programming:** the FT230X interface is replaced by a dual-channel FT2232H. Channel A connects to the ATF1508/ATF1504 JTAG chain; channel B selects between the AVR serial console and UPDI programming using jumpers. USB and board ground are now common, and the USB interface uses board power.
+- **Components and sourcing:** distributed tantalum bypass capacitors are replaced by ceramics. The original LM1117 regulator is retained, with a 22 µF/16 V tantalum at its output and another at the incoming 5 V supply. The SD socket footprint is reused from the HP21xx paper-tape emulator, the USB-C connector is updated, and unused J8 is removed. The [BOM](bom/README.md) contains LCSC numbers, prioritizes JLCPCB Basic parts and consolidates component values.
+- **CPLD sources and builds:** the two Q-bus CUPL designs now also have VHDL versions. Independent PLD and VHDL frontends feed a shared canonical TT2 backend and produce byte-identical JEDEC files. Symbolic checks verify all 353 logic/control equations against raw CUPL netlists. The shared backend changes the original PLD build too; the matched images differ from the earlier direct WinCUPL outputs.
+
+Firmware, CPLD sources and build tools are maintained as Git submodules:
+
+| Directory | Contents |
+| --- | --- |
+| [MSCPEmu-v4-0](MSCPEmu-v4-0/) | AVR firmware |
+| [DISKEmu-v5-1-CPLD](DISKEmu-v5-1-CPLD/) | Original CUPL, VHDL translations and equivalence checks |
+| [tools/atf15xx-yosys-docker](tools/atf15xx-yosys-docker/README.md) | Docker build tools: GHDL/Yosys, command-line CUPL and Atmel fitters under Wine |
+
+**PCB status:** the schematic and BOM are updated, but the PCB still needs the revised components applied, placed and routed, followed by DRC. Only J8 has been removed directly from the PCB. The revised electronics and onboard programming interfaces have not been tested on hardware. See the [schematic revision notes](docs/schematic-update.md) for details.
+
 ![Assembled DISK Emulator for the Q-Bus](https://www.5volts.ch/pages/mscpemulator/images/IMG_0579.jpeg)
 
 ## Schematic
+
+The KiCad project, schematic sheets, PCB and local symbol/footprint libraries are grouped in [DISKEmu-QBUS](DISKEmu-QBUS/). Open [DISKEmu-v5-1.kicad_pro](DISKEmu-QBUS/DISKEmu-v5-1.kicad_pro) in KiCad.
 
 The updated FT2232H/UPDI schematic is available as a [PDF](docs/schematic-usb-programming.pdf), with [capacitor specifications and programming jumper instructions](docs/schematic-update.md). The images below show the original design.
 
@@ -39,7 +59,7 @@ make compare-jed
 make check-equations
 ```
 
-JEDEC files and reports are generated separately under `DISKEmu-v5-1-CPLD/build/cupl/` and `build/vhdl/`. `make cpld-test` checks the canonicalizer, symbolic equation equivalence and final output identity.
+JEDEC files and reports are generated separately under the CPLD submodule’s `build/cupl/` and `build/vhdl/` directories. `make cpld-test` checks the canonicalizer, symbolic equation equivalence and final output identity.
 
 ## Additional Information
 

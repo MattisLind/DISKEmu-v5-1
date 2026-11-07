@@ -87,7 +87,7 @@ J5 is **SHOU HAN SD-CARD 11P, [C7529393](https://jlcpcb.com/partdetail/C7529393)
   HP21xx_Connectors.pretty/SD_SHOUHAN_SD-CARD-11P.kicad_mod
 ```
 
-The copy is in `hardware/HP21xx_Connectors.pretty/` and is registered in this project's `fp-lib-table`; it has no dependency on the other repository at edit time. Its signal-pad coordinates and pin numbers were checked against SHOU HAN drawing **FP-100090 A/0**, pages 1–2 of the [manufacturer datasheet](https://datasheet.lcsc.com/datasheet/pdf/205c75655f9098343d6dd157d86292c5.pdf?productCode=C7529393).
+The copy is in `DISKEmu-QBUS/hardware/HP21xx_Connectors.pretty/` and is registered in `DISKEmu-QBUS/fp-lib-table`; it has no dependency on the other repository at edit time. Its signal-pad coordinates and pin numbers were checked against SHOU HAN drawing **FP-100090 A/0**, pages 1–2 of the [manufacturer datasheet](https://datasheet.lcsc.com/datasheet/pdf/205c75655f9098343d6dd157d86292c5.pdf?productCode=C7529393).
 
 | Pad | Connection |
 | --- | --- |
@@ -108,7 +108,7 @@ The old Hirose connector's pad 10 was CD, pad 11 was the common and pad 18 was W
 Footprint SHA-256:
 
 ```text
-729971344a932b04b2968b7b7a1f022dcb681cff3efc6d367c941e033577dd22  hardware/HP21xx_Connectors.pretty/SD_SHOUHAN_SD-CARD-11P.kicad_mod
+729971344a932b04b2968b7b7a1f022dcb681cff3efc6d367c941e033577dd22  DISKEmu-QBUS/hardware/HP21xx_Connectors.pretty/SD_SHOUHAN_SD-CARD-11P.kicad_mod
 ```
 
 The copied drawing's overall body envelope is approximate and retains its original notes about insulating the shaded region and checking the card stop/board edge. Signal pads and mounting features have been checked against the drawing; a physical sample remains useful for enclosure clearance.

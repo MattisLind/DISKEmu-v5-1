@@ -1,5 +1,7 @@
 # USB programming and capacitor revision
 
+The KiCad project and its local libraries are in [DISKEmu-QBUS](../DISKEmu-QBUS/). Open [DISKEmu-v5-1.kicad_pro](../DISKEmu-QBUS/DISKEmu-v5-1.kicad_pro) in KiCad.
+
 This revision changes the schematic only. J8 has been removed from the PCB; the remaining PCB still has the original component placement and routing; it needs an update from the schematic followed by placement, routing and DRC. A rendered copy is available in [schematic-usb-programming.pdf](schematic-usb-programming.pdf).
 
 ## Capacitors

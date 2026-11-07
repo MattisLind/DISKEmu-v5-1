@@ -32,6 +32,7 @@ fp-info-cache
 # Temporary netlist/BOM XML exports in the project directory.
 # Keep bom/*.csv: these are intentional, reviewable purchasing/assembly BOMs.
 /*.xml
+/DISKEmu-QBUS/*.xml
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip

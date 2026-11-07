@@ -44,7 +44,7 @@ def main():
     with tempfile.TemporaryDirectory(prefix='diskemu-bom-') as temp:
         netlist = Path(temp) / 'netlist.xml'
         command = [cli, 'sch', 'export', 'netlist', '--format', 'kicadxml',
-                   '--output', str(netlist), str(ROOT / 'DISKEmu-v5-1.kicad_sch')]
+                   '--output', str(netlist), str(ROOT / 'DISKEmu-QBUS/DISKEmu-v5-1.kicad_sch')]
         result = subprocess.run(command, capture_output=True, text=True)
         if result.returncode:
             raise SystemExit(result.stderr or result.stdout)
