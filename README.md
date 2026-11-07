@@ -34,19 +34,19 @@ Firmware, CPLD sources and build tools are maintained as Git submodules:
 
 The KiCad project, schematic sheets, PCB and local symbol/footprint libraries are grouped in [DISKEmu-QBUS](DISKEmu-QBUS/). Open [DISKEmu-v5-1.kicad_pro](DISKEmu-QBUS/DISKEmu-v5-1.kicad_pro) in KiCad.
 
-The updated FT2232H/UPDI schematic is available as a [PDF](docs/schematic-usb-programming.pdf), with [capacitor specifications and programming jumper instructions](docs/schematic-update.md). The images below show the original design.
+The updated FT2232H/UPDI schematic is available as a [PDF](docs/schematic-usb-programming.pdf), with [capacitor specifications and programming jumper instructions](docs/schematic-update.md). The images below are exported from the current schematic; click a sheet to open the scalable drawing.
 
 The [purchasing BOM and JLCPCB sourcing notes](bom/README.md) include LCSC numbers, Basic/Extended classifications, inventory checks and assembly exceptions.
 
-![Page 1](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page1.png)
+[![Page 1: Overview](docs/schematics/DISKEmu-v5-1.svg)](docs/schematics/DISKEmu-v5-1.svg)
 
-![Page 2](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page2.png)
+[![Page 2: Q-bus interface](docs/schematics/DISKEmu-v5-1-QBUS.svg)](docs/schematics/DISKEmu-v5-1-QBUS.svg)
 
-![Page 3](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page3.png)
+[![Page 3: Power and spare gates](docs/schematics/DISKEmu-v5-1-POWER&SPARE.svg)](docs/schematics/DISKEmu-v5-1-POWER&SPARE.svg)
 
-![Page 4](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page4.png)
+[![Page 4: AVR controller](docs/schematics/DISKEmu-v5-1-CONTROLLER.svg)](docs/schematics/DISKEmu-v5-1-CONTROLLER.svg)
 
-![Page 5](https://www.5volts.ch/pages/mscpemulator/images/Schematic-Page5.png)
+[![Page 5: USB, console and programming](docs/schematics/DISKEmu-v5-1-INTERFACE.svg)](docs/schematics/DISKEmu-v5-1-INTERFACE.svg)
 
 ## CPLD builds
 
