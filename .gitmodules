@@ -4,3 +4,6 @@
 [submodule "DISKEmu-v5-1-CPLD"]
 	path = DISKEmu-v5-1-CPLD
 	url = git@github.com:MattisLind/DISKEmu-v5-1-CPLD.git
+[submodule "tools/atf15xx-yosys-docker"]
+	path = tools/atf15xx-yosys-docker
+	url = git@github.com:MattisLind/atf15xx-yosys-docker.git
