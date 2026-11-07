@@ -1,0 +1,3 @@
+[submodule "MSCPEmu-v4-0"]
+	path = MSCPEmu-v4-0
+	url = git@github.com:MattisLind/MSCPEmu-v4-0.git
