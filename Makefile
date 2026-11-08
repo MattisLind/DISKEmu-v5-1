@@ -10,6 +10,10 @@ help:
 	@echo "make jed-vhdl        Build both independent VHDL sources"
 	@echo "make compare-jed     Require byte-identical PLD/VHDL outputs"
 	@echo "make check-equations Prove VHDL equations against original CUPL TT2"
+	@echo "make cpld-svf        Generate CPLD erase/program/verify SVFs offline"
+	@echo "make cpld-jtag-check Parse SVFs offline (no hardware)"
+	@echo "make cpld-scan       Read chain IDs (requires connected hardware)"
+	@echo "make cpld-program    Erase, program and verify both physical CPLDs"
 	@echo "make cpld-verify     Check both generated JEDEC files"
 	@echo "make tool-versions   Show compiler/fitter identities"
 	@echo "make toolchain-test  Run parser tests and a VHDL-to-JEDEC smoke test"
@@ -66,3 +70,13 @@ firmware-test:
 firmware-repro: firmware
 	"$(AVR_TOOLS)/build-in-docker.sh" --output /src/build/firmware-repeat
 	python3 "$(AVR_TOOLS)/check-reproducible.py" build/firmware build/firmware-repeat
+
+.PHONY: cpld-svf cpld-jtag-check cpld-scan cpld-program
+cpld-svf:
+	$(MAKE) -C DISKEmu-v5-1-CPLD svf
+cpld-jtag-check:
+	$(MAKE) -C DISKEmu-v5-1-CPLD jtag-check
+cpld-scan:
+	$(MAKE) -C DISKEmu-v5-1-CPLD jtag-scan
+cpld-program:
+	$(MAKE) -C DISKEmu-v5-1-CPLD program

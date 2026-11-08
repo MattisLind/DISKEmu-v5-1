@@ -45,7 +45,7 @@ The old FT230X USB series resistors are removed; the FT2232H has integrated USB 
 
 Fit all three JP2 shunts for onboard USB JTAG. Remove all three before attaching an external programmer to J3. TDO remains connected to the FTDI input.
 
-The existing chain remains J3 TDI → U15 ATF1508 → U16 ATF1504 → J3 TDO. The AVR is programmed separately through UPDI. JTAG host software must support ATF15xx programming and the complete two-device chain; the schematic update does not provide or validate that software or programming vectors.
+The existing chain remains J3 TDI → U15 ATF1508 → U16 ATF1504 → J3 TDO. The AVR is programmed separately through UPDI. JTAG host software must support ATF15xx programming and the complete two-device chain; the repository now provides Project Bureau/OpenOCD tooling and offline-checked programming vectors. See the [programming guide](../tools/atf15xx-yosys-docker/PROGRAMMING.md). Hardware programming remains untested.
 
 ## Channel B: console / AVR UPDI
 

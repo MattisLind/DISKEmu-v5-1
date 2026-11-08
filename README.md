@@ -78,3 +78,12 @@ Programming images are `build/firmware/mscp/diskemu-mscp.hex` and `build/firmwar
 For a full description of this and other projects related not only to PDP-11 
 see my [Home Page](https://www.5volts.ch/). For a detailed description of the
 DISK Emulator see [MSCP Emulator](https://www.5volts.ch/pages/mscpemulator)
+
+CPLD programming support uses Project Bureau and OpenOCD with FT2232H channel A.
+After building the toolchain and JEDEC files, run `make cpld-svf` and
+`make cpld-jtag-check` without hardware. With a powered board connected,
+`make cpld-scan` identifies the chain and `make cpld-program` programs both chips.
+Programming automatically uses a temporary native OpenOCD bridge on macOS; Linux
+uses direct container USB with `ATF15XX_USB_DEVICE` selecting the adapter.
+See the [programming guide](tools/atf15xx-yosys-docker/PROGRAMMING.md) for USB access
+and jumper settings. Hardware programming has not yet been tested.
